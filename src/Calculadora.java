@@ -298,11 +298,11 @@ public class Calculadora extends javax.swing.JFrame {
         if (precioSteam <= 500) {
             porcentajeGanancia = ((precioSteam * 25) / 100);
         } else if (precioSteam > 500 && precioSteam <= 799) {
-            porcentajeGanancia = ((precioSteam * 22) / 100);
+            porcentajeGanancia = ((precioSteam * 23) / 100);
         } else if (precioSteam >= 800 && precioSteam <= 1999) {
-            porcentajeGanancia = ((precioSteam * 20) / 100);
+            porcentajeGanancia = ((precioSteam * 21) / 100);
         } else if (precioSteam > 2000) {
-            porcentajeGanancia = ((precioSteam * 10) / 100);
+            porcentajeGanancia = ((precioSteam * 19) / 100);
         }
 
         //*********************************************************
@@ -346,11 +346,11 @@ public class Calculadora extends javax.swing.JFrame {
         if (precioSteam <= 500) {
             porcentajeGanancia = ((precioSteam * 25) / 100);
         } else if (precioSteam > 500 && precioSteam < 800) {
-            porcentajeGanancia = ((precioSteam * 22) / 100);
+            porcentajeGanancia = ((precioSteam * 23) / 100);
         } else if (precioSteam > 800 && precioSteam < 1999) {
-            porcentajeGanancia = ((precioSteam * 15) / 100);
+            porcentajeGanancia = ((precioSteam * 21) / 100);
         } else if (precioSteam >= 2000) {
-            porcentajeGanancia = ((precioSteam * 10) / 100);
+            porcentajeGanancia = ((precioSteam * 19) / 100);
         }
         //*********************************************************
 
@@ -399,11 +399,11 @@ public class Calculadora extends javax.swing.JFrame {
         if (precioSteam <= 500) {
             porcentajeGanancia = ((precioSteam * 25) / 100);
         } else if (precioSteam > 500 && precioSteam < 800) {
-            porcentajeGanancia = ((precioSteam * 22) / 100);
+            porcentajeGanancia = ((precioSteam * 23) / 100);
         } else if (precioSteam > 800 && precioSteam < 1999) {
-            porcentajeGanancia = ((precioSteam * 15) / 100);
+            porcentajeGanancia = ((precioSteam * 21) / 100);
         } else if (precioSteam > 2000) {
-            porcentajeGanancia = ((precioSteam * 10) / 100);
+            porcentajeGanancia = ((precioSteam * 19) / 100);
         }
 
         //*********************************************************
@@ -447,11 +447,11 @@ public class Calculadora extends javax.swing.JFrame {
         if (precioSteam <= 500) {
             porcentajeGanancia = ((precioSteam * 25) / 100);
         } else if (precioSteam > 500 && precioSteam < 800) {
-            porcentajeGanancia = ((precioSteam * 22) / 100);
+            porcentajeGanancia = ((precioSteam * 23) / 100);
         } else if (precioSteam > 800 && precioSteam < 1999) {
-            porcentajeGanancia = ((precioSteam * 15) / 100);
+            porcentajeGanancia = ((precioSteam * 21) / 100);
         } else if (precioSteam >= 2000) {
-            porcentajeGanancia = ((precioSteam * 10) / 100);
+            porcentajeGanancia = ((precioSteam * 19) / 100);
         }
         //*********************************************************
 
